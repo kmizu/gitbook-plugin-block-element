@@ -2,11 +2,11 @@
     "name": "gitbook-plugin-div-element",
     "description": "A GitBook plugin to allow embedding a markdown inside a div element.",
     "main": "index.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "gitbook": ">=2.x.x"
     },
-    "keywords": ["div"],
+    "keywords": ["],
     "homepage": "https://github.com/kmizu/gitbook-plugin-div-element",
     "repository": {
         "type": "git",
