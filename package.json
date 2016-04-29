@@ -1,8 +1,8 @@
 {
-    "name": "gitbook-plugin-sectionx",
-    "description": "A GitBook plugin for separating the page into sections.",
+    "name": "gitbook-plugin-block-element",
+    "description": "A GitBook plugin to allow embedding a markdown inside a HTML block-level element.",
     "main": "index.js",
-    "version": "2.0.1",
+    "version": "0.0.1",
     "engines": {
         "gitbook": ">=2.x.x"
     },
@@ -10,13 +10,13 @@
     "dependencies": {
         "cheerio": "*"
     },
-    "homepage": "https://github.com/ymcatar/gitbook-plugin-sectionx",
+    "homepage": "https://github.com/kmizu/gitbook-plugin-block-element",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx.git"
+        "url": "https://github.com/kmizu/gitbook-plugin-block-element.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx/issues"
+        "url": "https://github.com/kmizu/gitbook-plugin-block-element/issues"
     }
 }
