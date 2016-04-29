@@ -1,6 +1,6 @@
 {
-    "name": "gitbook-plugin-block-element",
-    "description": "A GitBook plugin to allow embedding a markdown inside a HTML block-level element.",
+    "name": "gitbook-plugin-div-element",
+    "description": "A GitBook plugin to allow embedding a markdown inside a div element.",
     "main": "index.js",
     "version": "0.0.1",
     "engines": {
@@ -10,13 +10,13 @@
     "dependencies": {
         "cheerio": "*"
     },
-    "homepage": "https://github.com/kmizu/gitbook-plugin-block-element",
+    "homepage": "https://github.com/kmizu/gitbook-plugin-div-element",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kmizu/gitbook-plugin-block-element.git"
+        "url": "https://github.com/kmizu/gitbook-plugin-div-element.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/kmizu/gitbook-plugin-block-element/issues"
+        "url": "https://github.com/kmizu/gitbook-plugin-div-element/issues"
     }
 }
