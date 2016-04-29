@@ -10,11 +10,11 @@ TBD
 You can embed a markdown inside a new block-level element with the use of tag:
 
 ```
-<!-- begin div -->
+{% div style="display:none" %}
 
 Insert markdown content here.
 
-<!-- end div -->
+{% enddiv %}
 ```
 
-An open-tag should be  `<!-- begin tag_name -->` and close-tag should be `<-- end tag_name-->`  . Attributes are processed as you wrote.
+An open-tag should be  `{% div ... %}` and close-tag should be `{% enddiv %}`  . Attributes are processed as you wrote.
