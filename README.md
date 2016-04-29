@@ -5,9 +5,9 @@ This is a GitBook plugin to allow embedding a markdown inside a HTML block-level
 TBD 
 
 
-## How to embed block-level element
+## How to embed a markdown inside block-level element
 
-You can embed a new block-level element with the use of tag:
+You can embed a markdown inside a new block-level element with the use of tag:
 
 ```
 <!-- begin div -->
