@@ -17,4 +17,4 @@ Insert markdown content here.
 <!-- end div -->
 ```
 
-A open-tag should be  `<!-- begin tag_name -->` and close-tag should be `<-- end tag_name-->`  . Attributes are processed as you wrote.
+An open-tag should be  `<!-- begin tag_name -->` and close-tag should be `<-- end tag_name-->`  . Attributes are processed as you wrote.
