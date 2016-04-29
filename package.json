@@ -6,7 +6,7 @@
     "engines": {
         "gitbook": ">=2.x.x"
     },
-    "keywords": ["],
+    "keywords": [],
     "homepage": "https://github.com/kmizu/gitbook-plugin-div-element",
     "repository": {
         "type": "git",
