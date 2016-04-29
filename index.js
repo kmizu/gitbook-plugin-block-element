@@ -6,7 +6,7 @@ module.exports = {
                 result += "<div"
                 var keywords = Object.keys(block.kwargs);
                 keywords.forEach(function(key) {
-                   result += " key = \"" + block.kwargs[key] + "\""
+                   result += " " + key + " = \"" + block.kwargs[key] + "\""
                 });
                 var args = block.args;
                 args.forEach(function(arg) {
